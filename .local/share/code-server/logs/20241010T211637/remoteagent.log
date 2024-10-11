@@ -64,3 +64,225 @@
 2024-10-10 22:58:26.978 [trace] [File Watcher (node.js)] [raw] ["rename"] index.lock
 2024-10-10 22:58:26.978 [trace] [File Watcher (parcel)] [ADDED] /home/coder/.git/index.lock
 2024-10-10 22:58:26.984 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:58:26.990 [trace] [File Watcher (node.js)] [raw] ["change"] index.lock
+2024-10-10 22:58:26.990 [trace] [File Watcher (node.js)] [ADDED] /home/coder/.git/index.lock
+2024-10-10 22:58:26.990 [trace] [File Watcher (node.js)]  >> ignored (not included) /home/coder/.git/index.lock
+2024-10-10 22:58:26.990 [trace] [File Watcher (node.js)] [raw] ["change"] index.lock
+2024-10-10 22:58:26.990 [trace] [File Watcher (node.js)] [CHANGED] /home/coder/.git/index.lock
+2024-10-10 22:58:26.990 [trace] [File Watcher (node.js)]  >> ignored (not included) /home/coder/.git/index.lock
+2024-10-10 22:58:26.990 [trace] [File Watcher (node.js)] [raw] ["rename"] index.lock
+2024-10-10 22:58:26.990 [trace] [File Watcher (node.js)] [raw] ["rename"] index
+2024-10-10 22:58:27.001 [trace] [File Watcher (node.js)] [raw] ["rename"] index.lock
+2024-10-10 22:58:27.004 [trace] [File Watcher (node.js)] [raw] ["change"] index.lock
+2024-10-10 22:58:27.004 [trace] [File Watcher (node.js)] [CHANGED] /home/coder/.git/index.lock
+2024-10-10 22:58:27.004 [trace] [File Watcher (node.js)]  >> ignored (not included) /home/coder/.git/index.lock
+2024-10-10 22:58:27.004 [trace] [File Watcher (node.js)] [raw] ["change"] index.lock
+2024-10-10 22:58:27.004 [trace] [File Watcher (node.js)] [CHANGED] /home/coder/.git/index.lock
+2024-10-10 22:58:27.004 [trace] [File Watcher (node.js)]  >> ignored (not included) /home/coder/.git/index.lock
+2024-10-10 22:58:27.004 [trace] [File Watcher (node.js)] [raw] ["rename"] index.lock
+2024-10-10 22:58:27.004 [trace] [File Watcher (node.js)] [raw] ["rename"] index
+2024-10-10 22:58:27.004 [trace] [File Watcher (node.js)] [raw] ["change"] COMMIT_EDITMSG
+2024-10-10 22:58:27.004 [trace] [File Watcher (node.js)] [CHANGED] /home/coder/.git/COMMIT_EDITMSG
+2024-10-10 22:58:27.004 [trace] [File Watcher (node.js)]  >> ignored (not included) /home/coder/.git/COMMIT_EDITMSG
+2024-10-10 22:58:27.004 [trace] [File Watcher (node.js)] [raw] ["change"] COMMIT_EDITMSG
+2024-10-10 22:58:27.004 [trace] [File Watcher (node.js)] [CHANGED] /home/coder/.git/COMMIT_EDITMSG
+2024-10-10 22:58:27.004 [trace] [File Watcher (node.js)]  >> ignored (not included) /home/coder/.git/COMMIT_EDITMSG
+2024-10-10 22:58:27.047 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:58:27.053 [trace] [File Watcher (parcel)]  >> normalized [ADDED] /home/coder/.git/index.lock
+2024-10-10 22:58:27.055 [trace] [File Watcher (parcel)] [CHANGED] /home/coder/.git/COMMIT_EDITMSG
+2024-10-10 22:58:27.055 [trace] [File Watcher (parcel)] [ADDED] /home/coder/.git/index
+2024-10-10 22:58:27.055 [trace] [File Watcher (parcel)] [DELETED] /home/coder/.git/index.lock
+2024-10-10 22:58:27.065 [trace] File action: readFileStream /home/coder/.git/COMMIT_EDITMSG
+2024-10-10 22:58:27.067 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:58:27.073 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:58:27.105 [trace] [File Watcher (node.js)] [DELETED] /home/coder/.git/index.lock
+2024-10-10 22:58:27.105 [trace] [File Watcher (node.js)]  >> ignored (not included) /home/coder/.git/index.lock
+2024-10-10 22:58:27.105 [trace] [File Watcher (node.js)] [CHANGED] /home/coder/.git/index
+2024-10-10 22:58:27.105 [trace] [File Watcher (node.js)]  >> ignored (not included) /home/coder/.git/index
+2024-10-10 22:58:27.128 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:58:27.130 [trace] [File Watcher (parcel)]  >> normalized [DELETED] /home/coder/.git/index.lock
+2024-10-10 22:58:27.130 [trace] [File Watcher (parcel)]  >> normalized [CHANGED] /home/coder/.git/COMMIT_EDITMSG
+2024-10-10 22:58:27.130 [trace] [File Watcher (parcel)]  >> normalized [ADDED] /home/coder/.git/index
+2024-10-10 22:58:27.132 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:58:27.207 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:58:27.345 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:58:27.348 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:58:28.312 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:58:28.315 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:58:28.367 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:58:28.371 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:58:31.646 [trace] File action: writeFile /home/coder/.git/COMMIT_EDITMSG
+2024-10-10 22:58:31.646 [trace] [File Watcher (node.js)] [raw] ["change"] COMMIT_EDITMSG
+2024-10-10 22:58:31.646 [trace] [File Watcher (node.js)] [CHANGED] /home/coder/.git/COMMIT_EDITMSG
+2024-10-10 22:58:31.646 [trace] [File Watcher (node.js)]  >> ignored (not included) /home/coder/.git/COMMIT_EDITMSG
+2024-10-10 22:58:31.646 [trace] [File Watcher (node.js)] [raw] ["change"] COMMIT_EDITMSG
+2024-10-10 22:58:31.646 [trace] [File Watcher (node.js)] [CHANGED] /home/coder/.git/COMMIT_EDITMSG
+2024-10-10 22:58:31.646 [trace] [File Watcher (node.js)]  >> ignored (not included) /home/coder/.git/COMMIT_EDITMSG
+2024-10-10 22:58:31.646 [trace] [File Watcher (parcel)] [CHANGED] /home/coder/.git/COMMIT_EDITMSG
+2024-10-10 22:58:31.697 [trace] [File Watcher (parcel)] [CHANGED] /home/coder/.git/COMMIT_EDITMSG
+2024-10-10 22:58:31.714 [trace] File action: writeFile /home/coder/.local/share/code-server/User/History/-75a65436/entries.json
+2024-10-10 22:58:31.722 [trace] [File Watcher (parcel)]  >> normalized [CHANGED] /home/coder/.git/COMMIT_EDITMSG
+2024-10-10 22:58:31.777 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:58:32.850 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:58:32.852 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:58:32.897 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:58:32.901 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:58:37.037 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:58:37.041 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:58:40.237 [trace] [File Watcher (node.js)] [raw] ["rename"] HEAD.lock
+2024-10-10 22:58:40.238 [trace] [File Watcher (node.js)] [raw] ["rename"] HEAD.lock
+2024-10-10 22:58:40.238 [trace] [File Watcher (parcel)] [ADDED] /home/coder/.git/HEAD.lock
+2024-10-10 22:58:40.238 [trace] [File Watcher (parcel)] [ADDED] /home/coder/.git/refs/heads/main.lock
+2024-10-10 22:58:40.287 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:58:40.288 [trace] [File Watcher (parcel)] [DELETED] /home/coder/.git/HEAD.lock
+2024-10-10 22:58:40.288 [trace] [File Watcher (parcel)] [CHANGED] /home/coder/.git/logs/HEAD
+2024-10-10 22:58:40.288 [trace] [File Watcher (parcel)] [CHANGED] /home/coder/.git/logs/refs/heads/main
+2024-10-10 22:58:40.288 [trace] [File Watcher (parcel)] [ADDED] /home/coder/.git/refs/heads/main
+2024-10-10 22:58:40.288 [trace] [File Watcher (parcel)] [DELETED] /home/coder/.git/refs/heads/main.lock
+2024-10-10 22:58:40.291 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:58:40.313 [trace] [File Watcher (parcel)]  >> normalized [CHANGED] /home/coder/.git/logs/HEAD
+2024-10-10 22:58:40.313 [trace] [File Watcher (parcel)]  >> normalized [CHANGED] /home/coder/.git/logs/refs/heads/main
+2024-10-10 22:58:40.313 [trace] [File Watcher (parcel)]  >> normalized [ADDED] /home/coder/.git/refs/heads/main
+2024-10-10 22:58:40.315 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:58:40.329 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:58:40.338 [trace] [File Watcher (node.js)] [DELETED] /home/coder/.git/HEAD.lock
+2024-10-10 22:58:40.338 [trace] [File Watcher (node.js)]  >> ignored (not included) /home/coder/.git/HEAD.lock
+2024-10-10 22:58:45.392 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:58:45.396 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:58:46.855 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:58:46.859 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:58:48.899 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:58:48.901 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:58:51.388 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:58:51.392 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:59:03.367 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:59:03.371 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:59:03.374 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:59:03.378 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:59:03.427 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:59:03.433 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:59:03.881 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 22:59:03.885 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 23:00:06.869 [trace] [File Watcher (node.js)] [raw] ["rename"] config.lock
+2024-10-10 23:00:06.870 [trace] [File Watcher (node.js)] [raw] ["change"] config.lock
+2024-10-10 23:00:06.870 [trace] [File Watcher (node.js)] [ADDED] /home/coder/.git/config.lock
+2024-10-10 23:00:06.870 [trace] [File Watcher (node.js)]  >> ignored (not included) /home/coder/.git/config.lock
+2024-10-10 23:00:06.870 [trace] [File Watcher (node.js)] [raw] ["change"] config.lock
+2024-10-10 23:00:06.870 [trace] [File Watcher (node.js)] [CHANGED] /home/coder/.git/config.lock
+2024-10-10 23:00:06.870 [trace] [File Watcher (node.js)]  >> ignored (not included) /home/coder/.git/config.lock
+2024-10-10 23:00:06.870 [trace] [File Watcher (node.js)] [raw] ["rename"] config.lock
+2024-10-10 23:00:06.870 [trace] [File Watcher (node.js)] [raw] ["rename"] config
+2024-10-10 23:00:06.870 [trace] [File Watcher (node.js)] [raw] ["rename"] config.lock
+2024-10-10 23:00:06.870 [trace] [File Watcher (node.js)] [raw] ["change"] config.lock
+2024-10-10 23:00:06.870 [trace] [File Watcher (node.js)] [CHANGED] /home/coder/.git/config.lock
+2024-10-10 23:00:06.870 [trace] [File Watcher (node.js)]  >> ignored (not included) /home/coder/.git/config.lock
+2024-10-10 23:00:06.870 [trace] [File Watcher (node.js)] [raw] ["change"] config.lock
+2024-10-10 23:00:06.870 [trace] [File Watcher (node.js)] [CHANGED] /home/coder/.git/config.lock
+2024-10-10 23:00:06.870 [trace] [File Watcher (node.js)]  >> ignored (not included) /home/coder/.git/config.lock
+2024-10-10 23:00:06.870 [trace] [File Watcher (node.js)] [raw] ["rename"] config.lock
+2024-10-10 23:00:06.870 [trace] [File Watcher (node.js)] [raw] ["rename"] config
+2024-10-10 23:00:06.870 [trace] [File Watcher (parcel)] [ADDED] /home/coder/.git/config.lock
+2024-10-10 23:00:06.871 [trace] [File Watcher (node.js)] [raw] ["rename"] FETCH_HEAD
+2024-10-10 23:00:06.922 [trace] [File Watcher (parcel)] [ADDED] /home/coder/.git/FETCH_HEAD
+2024-10-10 23:00:06.922 [trace] [File Watcher (parcel)] [ADDED] /home/coder/.git/config
+2024-10-10 23:00:06.922 [trace] [File Watcher (parcel)] [DELETED] /home/coder/.git/config.lock
+2024-10-10 23:00:06.945 [trace] [File Watcher (parcel)]  >> normalized [ADDED] /home/coder/.git/FETCH_HEAD
+2024-10-10 23:00:06.945 [trace] [File Watcher (parcel)]  >> normalized [ADDED] /home/coder/.git/config
+2024-10-10 23:00:06.957 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 23:00:06.971 [trace] [File Watcher (node.js)] [DELETED] /home/coder/.git/config.lock
+2024-10-10 23:00:06.971 [trace] [File Watcher (node.js)]  >> ignored (not included) /home/coder/.git/config.lock
+2024-10-10 23:00:06.971 [trace] [File Watcher (node.js)] [CHANGED] /home/coder/.git/config
+2024-10-10 23:00:06.971 [trace] [File Watcher (node.js)]  >> ignored (not included) /home/coder/.git/config
+2024-10-10 23:00:06.972 [trace] [File Watcher (node.js)] [ADDED] /home/coder/.git/FETCH_HEAD
+2024-10-10 23:00:06.972 [trace] [File Watcher (node.js)]  >> ignored (not included) /home/coder/.git/FETCH_HEAD
+2024-10-10 23:00:07.965 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 23:00:07.968 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 23:00:08.017 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 23:00:08.021 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 23:00:08.029 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 23:00:08.078 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 23:00:08.081 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 23:00:11.721 [trace] [File Watcher (parcel)] [ADDED] /home/coder/.git/refs/remotes
+2024-10-10 23:00:11.721 [trace] [File Watcher (node.js)] [raw] ["change"] FETCH_HEAD
+2024-10-10 23:00:11.721 [trace] [File Watcher (node.js)] [CHANGED] /home/coder/.git/FETCH_HEAD
+2024-10-10 23:00:11.721 [trace] [File Watcher (node.js)]  >> ignored (not included) /home/coder/.git/FETCH_HEAD
+2024-10-10 23:00:11.772 [trace] [File Watcher (parcel)] [CHANGED] /home/coder/.git/FETCH_HEAD
+2024-10-10 23:00:11.772 [trace] [File Watcher (parcel)] [ADDED] /home/coder/.git/logs/refs/remotes
+2024-10-10 23:00:11.772 [trace] [File Watcher (parcel)] [ADDED] /home/coder/.git/logs/refs/remotes/buildpack-deps
+2024-10-10 23:00:11.772 [trace] [File Watcher (parcel)] [ADDED] /home/coder/.git/logs/refs/remotes/buildpack-deps/patch-1
+2024-10-10 23:00:11.772 [trace] [File Watcher (parcel)] [ADDED] /home/coder/.git/refs/remotes/buildpack-deps
+2024-10-10 23:00:11.772 [trace] [File Watcher (parcel)] [ADDED] /home/coder/.git/refs/remotes/buildpack-deps/master
+2024-10-10 23:00:11.772 [trace] [File Watcher (parcel)] [DELETED] /home/coder/.git/refs/remotes/buildpack-deps/master.lock
+2024-10-10 23:00:11.772 [trace] [File Watcher (parcel)] [ADDED] /home/coder/.git/refs/remotes/buildpack-deps/patch-1
+2024-10-10 23:00:11.796 [trace] [File Watcher (parcel)]  >> normalized [DELETED] /home/coder/.git/refs/remotes/buildpack-deps/master.lock
+2024-10-10 23:00:11.796 [trace] [File Watcher (parcel)]  >> normalized [ADDED] /home/coder/.git/refs/remotes
+2024-10-10 23:00:11.796 [trace] [File Watcher (parcel)]  >> normalized [CHANGED] /home/coder/.git/FETCH_HEAD
+2024-10-10 23:00:11.796 [trace] [File Watcher (parcel)]  >> normalized [ADDED] /home/coder/.git/logs/refs/remotes
+2024-10-10 23:00:11.796 [trace] [File Watcher (parcel)]  >> normalized [ADDED] /home/coder/.git/logs/refs/remotes/buildpack-deps
+2024-10-10 23:00:11.796 [trace] [File Watcher (parcel)]  >> normalized [ADDED] /home/coder/.git/logs/refs/remotes/buildpack-deps/patch-1
+2024-10-10 23:00:11.796 [trace] [File Watcher (parcel)]  >> normalized [ADDED] /home/coder/.git/refs/remotes/buildpack-deps
+2024-10-10 23:00:11.796 [trace] [File Watcher (parcel)]  >> normalized [ADDED] /home/coder/.git/refs/remotes/buildpack-deps/master
+2024-10-10 23:00:11.796 [trace] [File Watcher (parcel)]  >> normalized [ADDED] /home/coder/.git/refs/remotes/buildpack-deps/patch-1
+2024-10-10 23:00:11.824 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 23:00:12.915 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 23:00:12.919 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 23:00:12.967 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 23:00:12.971 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 23:00:13.017 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 23:00:13.021 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 23:00:26.148 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 23:00:26.199 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 23:00:26.228 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 23:00:26.279 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 23:00:26.330 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 23:00:29.744 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 23:00:29.748 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 23:00:30.687 [trace] [File Watcher (node.js)] [raw] ["rename"] config.lock
+2024-10-10 23:00:30.687 [trace] [File Watcher (node.js)] [raw] ["change"] config.lock
+2024-10-10 23:00:30.687 [trace] [File Watcher (node.js)] [ADDED] /home/coder/.git/config.lock
+2024-10-10 23:00:30.687 [trace] [File Watcher (node.js)]  >> ignored (not included) /home/coder/.git/config.lock
+2024-10-10 23:00:30.687 [trace] [File Watcher (node.js)] [raw] ["change"] config.lock
+2024-10-10 23:00:30.687 [trace] [File Watcher (node.js)] [CHANGED] /home/coder/.git/config.lock
+2024-10-10 23:00:30.687 [trace] [File Watcher (node.js)]  >> ignored (not included) /home/coder/.git/config.lock
+2024-10-10 23:00:30.687 [trace] [File Watcher (node.js)] [raw] ["rename"] config.lock
+2024-10-10 23:00:30.687 [trace] [File Watcher (node.js)] [raw] ["rename"] config
+2024-10-10 23:00:30.687 [trace] [File Watcher (node.js)] [raw] ["rename"] config.lock
+2024-10-10 23:00:30.687 [trace] [File Watcher (node.js)] [raw] ["rename"] config.lock
+2024-10-10 23:00:30.687 [trace] [File Watcher (node.js)] [raw] ["rename"] config.lock
+2024-10-10 23:00:30.687 [trace] [File Watcher (node.js)] [raw] ["change"] config.lock
+2024-10-10 23:00:30.687 [trace] [File Watcher (node.js)] [CHANGED] /home/coder/.git/config.lock
+2024-10-10 23:00:30.687 [trace] [File Watcher (node.js)]  >> ignored (not included) /home/coder/.git/config.lock
+2024-10-10 23:00:30.687 [trace] [File Watcher (node.js)] [raw] ["change"] config.lock
+2024-10-10 23:00:30.687 [trace] [File Watcher (node.js)] [CHANGED] /home/coder/.git/config.lock
+2024-10-10 23:00:30.687 [trace] [File Watcher (node.js)]  >> ignored (not included) /home/coder/.git/config.lock
+2024-10-10 23:00:30.687 [trace] [File Watcher (node.js)] [raw] ["rename"] config.lock
+2024-10-10 23:00:30.687 [trace] [File Watcher (node.js)] [raw] ["rename"] config
+2024-10-10 23:00:30.688 [trace] [File Watcher (parcel)] [ADDED] /home/coder/.git/config.lock
+2024-10-10 23:00:30.702 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 23:00:30.738 [trace] [File Watcher (parcel)] [ADDED] /home/coder/.git/config
+2024-10-10 23:00:30.738 [trace] [File Watcher (parcel)] [DELETED] /home/coder/.git/config.lock
+2024-10-10 23:00:30.738 [trace] [File Watcher (parcel)] [ADDED] /home/coder/.git/logs/refs/remotes/buildpack-deps/main
+2024-10-10 23:00:30.738 [trace] [File Watcher (parcel)] [ADDED] /home/coder/.git/refs/remotes/buildpack-deps/main
+2024-10-10 23:00:30.748 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 23:00:30.750 [trace] [File Watcher (node.js)] Request to start watching: /home/coder/.git/refs/remotes/buildpack-deps/main (excludes: /home/coder/.local/share/code-server/extensions/**, includes: ["**/.git/objects/**/**","**/.git/subtree-cache/**/**","**/node_modules/*/**/**","**/.hg/store/**/**"], filter: <none>, correlationId: <none>)
+2024-10-10 23:00:30.751 [trace] [File Watcher (node.js)] Started watching: '/home/coder/.git/refs/remotes/buildpack-deps/main'
+2024-10-10 23:00:30.753 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 23:00:30.757 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 23:00:30.762 [trace] [File Watcher (parcel)]  >> normalized [ADDED] /home/coder/.git/config
+2024-10-10 23:00:30.762 [trace] [File Watcher (parcel)]  >> normalized [ADDED] /home/coder/.git/logs/refs/remotes/buildpack-deps/main
+2024-10-10 23:00:30.762 [trace] [File Watcher (parcel)]  >> normalized [ADDED] /home/coder/.git/refs/remotes/buildpack-deps/main
+2024-10-10 23:00:30.765 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 23:00:30.787 [trace] [File Watcher (node.js)] [DELETED] /home/coder/.git/config.lock
+2024-10-10 23:00:30.787 [trace] [File Watcher (node.js)]  >> ignored (not included) /home/coder/.git/config.lock
+2024-10-10 23:00:30.788 [trace] [File Watcher (node.js)] [CHANGED] /home/coder/.git/config
+2024-10-10 23:00:30.788 [trace] [File Watcher (node.js)]  >> ignored (not included) /home/coder/.git/config
+2024-10-10 23:00:30.821 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 23:00:30.878 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 23:00:31.847 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 23:00:31.852 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 23:00:31.933 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 23:00:31.936 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 23:00:31.988 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 23:00:31.993 [trace] File action: readFile /home/coder/.local/share/code-server/logs/20241010T211637/exthost4/vscode.git/Git.log
+2024-10-10 23:00:38.747 [trace] [File Watcher (node.js)] [raw] ["rename"] index.lock
+2024-10-10 23:00:38.747 [trace] [File Watcher (parcel)] [ADDED] /home/coder/.git/index.lock

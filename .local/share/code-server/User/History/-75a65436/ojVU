@@ -1,0 +1,16 @@
+1.1
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Changes to be committed:
+#	new file:   .local/share/code-server/User/History/50d3d7b8/boqx.json
+#	modified:   .local/share/code-server/User/History/50d3d7b8/entries.json
+#	modified:   .local/share/code-server/User/settings.json
+#	modified:   .local/share/code-server/logs/20241010T211637/exthost4/remoteexthost.log
+#	new file:   .local/share/code-server/logs/20241010T211637/remoteagent.log
+#
+# Changes not staged for commit:
+#	modified:   .local/share/code-server/logs/20241010T211637/exthost4/remoteexthost.log
+#	modified:   .local/share/code-server/logs/20241010T211637/remoteagent.log
+#

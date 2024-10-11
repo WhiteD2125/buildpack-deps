@@ -1,0 +1,15 @@
+{
+    "gitlens.views.repositories.files.layout": "list",
+    "oracledevtools.connectionConfiguration.configFilesFolder": "/home/coder/Oracle/network/admin",
+    "[oraclesql]": {
+        "editor.suggest.showSnippets": true,
+        "editor.quickSuggestions": {
+            "comments": "on",
+            "strings": "on",
+            "other": "on"
+        }
+    },
+    "oracledevtools.connectionConfiguration.walletFileFolder": "/home/coder/Oracle/network/admin",
+    "oracledevtools.bookmarkFileFolder": "/home/coder/Oracle/oracle.oracledevtools",
+    "oracledevtools.download.otherFolder": "/home/coder/downloads"
+}

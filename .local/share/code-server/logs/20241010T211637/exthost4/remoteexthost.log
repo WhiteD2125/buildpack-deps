@@ -27149,3 +27149,728 @@ Require stack:
 2024-10-10 23:00:38.740 [trace] CommandsConverter#CREATE git.commit git.commit /292563
 2024-10-10 23:00:38.740 [trace] ExtHostCommands#executeCommand setContext
 2024-10-10 23:00:38.740 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:38.749 [trace] ExtHostSCM#$validateInput 3
+2024-10-10 23:00:38.775 [trace] CommandsConverter#DISPOSE git.commit /292559
+2024-10-10 23:00:38.775 [trace] CommandsConverter#DISPOSE git.commit /292560
+2024-10-10 23:00:38.775 [trace] CommandsConverter#DISPOSE git.commitAmend /292561
+2024-10-10 23:00:38.775 [trace] CommandsConverter#DISPOSE git.commit /292562
+2024-10-10 23:00:38.775 [trace] CommandsConverter#DISPOSE git.commit /292563
+2024-10-10 23:00:38.775 [trace] CommandsConverter#CREATE git.commit git.commit /292564
+2024-10-10 23:00:38.775 [trace] CommandsConverter#CREATE git.commit git.commit /292565
+2024-10-10 23:00:38.775 [trace] CommandsConverter#CREATE git.commitAmend git.commitAmend /292566
+2024-10-10 23:00:38.775 [trace] CommandsConverter#CREATE git.commit git.commit /292567
+2024-10-10 23:00:38.775 [trace] CommandsConverter#CREATE git.commit git.commit /292568
+2024-10-10 23:00:38.816 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:38.816 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:38.821 [trace] CommandsConverter#DISPOSE git.commit /292564
+2024-10-10 23:00:38.821 [trace] CommandsConverter#DISPOSE git.commit /292565
+2024-10-10 23:00:38.821 [trace] CommandsConverter#DISPOSE git.commitAmend /292566
+2024-10-10 23:00:38.821 [trace] CommandsConverter#DISPOSE git.commit /292567
+2024-10-10 23:00:38.821 [trace] CommandsConverter#DISPOSE git.commit /292568
+2024-10-10 23:00:38.821 [trace] CommandsConverter#CREATE git.commit git.commit /292569
+2024-10-10 23:00:38.821 [trace] CommandsConverter#CREATE git.commit git.commit /292570
+2024-10-10 23:00:38.821 [trace] CommandsConverter#CREATE git.commitAmend git.commitAmend /292571
+2024-10-10 23:00:38.821 [trace] CommandsConverter#CREATE git.commit git.commit /292572
+2024-10-10 23:00:38.821 [trace] CommandsConverter#CREATE git.commit git.commit /292573
+2024-10-10 23:00:38.821 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:38.821 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:38.822 [trace] CommandsConverter#CREATE git.sync git.sync /292574
+2024-10-10 23:00:38.822 [trace] CommandsConverter#DISPOSE git.sync /292574
+2024-10-10 23:00:38.822 [trace] CommandsConverter#CREATE git.checkout git.checkout /292575
+2024-10-10 23:00:38.822 [trace] CommandsConverter#CREATE git.sync git.sync /292576
+2024-10-10 23:00:38.822 [trace] CommandsConverter#DISPOSE git.commit /292569
+2024-10-10 23:00:38.822 [trace] CommandsConverter#DISPOSE git.commit /292570
+2024-10-10 23:00:38.822 [trace] CommandsConverter#DISPOSE git.commitAmend /292571
+2024-10-10 23:00:38.822 [trace] CommandsConverter#DISPOSE git.commit /292572
+2024-10-10 23:00:38.822 [trace] CommandsConverter#DISPOSE git.commit /292573
+2024-10-10 23:00:38.822 [trace] CommandsConverter#CREATE git.commit git.commit /292577
+2024-10-10 23:00:38.822 [trace] CommandsConverter#CREATE git.commit git.commit /292578
+2024-10-10 23:00:38.822 [trace] CommandsConverter#CREATE git.commitAmend git.commitAmend /292579
+2024-10-10 23:00:38.822 [trace] CommandsConverter#CREATE git.commit git.commit /292580
+2024-10-10 23:00:38.822 [trace] CommandsConverter#CREATE git.commit git.commit /292581
+2024-10-10 23:00:38.822 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:38.822 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:38.823 [trace] CommandsConverter#DISPOSE git.commit /292577
+2024-10-10 23:00:38.823 [trace] CommandsConverter#DISPOSE git.commit /292578
+2024-10-10 23:00:38.823 [trace] CommandsConverter#DISPOSE git.commitAmend /292579
+2024-10-10 23:00:38.823 [trace] CommandsConverter#DISPOSE git.commit /292580
+2024-10-10 23:00:38.823 [trace] CommandsConverter#DISPOSE git.commit /292581
+2024-10-10 23:00:38.823 [trace] CommandsConverter#CREATE git.commit git.commit /292582
+2024-10-10 23:00:38.823 [trace] CommandsConverter#CREATE git.commit git.commit /292583
+2024-10-10 23:00:38.823 [trace] CommandsConverter#CREATE git.commitAmend git.commitAmend /292584
+2024-10-10 23:00:38.823 [trace] CommandsConverter#CREATE git.commit git.commit /292585
+2024-10-10 23:00:38.823 [trace] CommandsConverter#CREATE git.commit git.commit /292586
+2024-10-10 23:00:38.823 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:38.823 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:38.823 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:38.823 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:38.823 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:38.823 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:38.829 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:38.829 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:38.830 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:38.830 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:38.834 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:38.834 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:38.834 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:38.834 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:38.835 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:38.835 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:38.835 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:38.835 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:38.840 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:38.840 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:38.842 [trace] [vscode.git] INVOKE provider 've=>ve.provideCodeActions(f.URI.revive(q),Y,_,fe)'
+2024-10-10 23:00:38.842 [trace] [GitHub.vscode-pull-request-github] INVOKE provider 've=>ve.provideCodeActions(f.URI.revive(q),Y,_,fe)'
+2024-10-10 23:00:38.842 [trace] [fnando.linter] INVOKE provider 've=>ve.provideCodeActions(f.URI.revive(q),Y,_,fe)'
+2024-10-10 23:00:38.842 [trace] [vscode.git] provider DONE after 0ms
+2024-10-10 23:00:38.842 [trace] [GitHub.vscode-pull-request-github] provider DONE after 0ms
+2024-10-10 23:00:38.842 [trace] [fnando.linter] provider DONE after 0ms
+2024-10-10 23:00:38.890 [trace] CommandsConverter#DISPOSE git.commit /292582
+2024-10-10 23:00:38.890 [trace] CommandsConverter#DISPOSE git.commit /292583
+2024-10-10 23:00:38.890 [trace] CommandsConverter#DISPOSE git.commitAmend /292584
+2024-10-10 23:00:38.890 [trace] CommandsConverter#DISPOSE git.commit /292585
+2024-10-10 23:00:38.890 [trace] CommandsConverter#DISPOSE git.commit /292586
+2024-10-10 23:00:38.890 [trace] CommandsConverter#CREATE git.commit git.commit /292587
+2024-10-10 23:00:38.890 [trace] CommandsConverter#CREATE git.commit git.commit /292588
+2024-10-10 23:00:38.890 [trace] CommandsConverter#CREATE git.commitAmend git.commitAmend /292589
+2024-10-10 23:00:38.891 [trace] CommandsConverter#CREATE git.commit git.commit /292590
+2024-10-10 23:00:38.891 [trace] CommandsConverter#CREATE git.commit git.commit /292591
+2024-10-10 23:00:38.898 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:38.898 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:38.912 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:38.912 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:38.913 [trace] CommandsConverter#DISPOSE git.commit /292587
+2024-10-10 23:00:38.913 [trace] CommandsConverter#DISPOSE git.commit /292588
+2024-10-10 23:00:38.913 [trace] CommandsConverter#DISPOSE git.commitAmend /292589
+2024-10-10 23:00:38.913 [trace] CommandsConverter#DISPOSE git.commit /292590
+2024-10-10 23:00:38.913 [trace] CommandsConverter#DISPOSE git.commit /292591
+2024-10-10 23:00:38.913 [trace] CommandsConverter#CREATE git.commit git.commit /292592
+2024-10-10 23:00:38.913 [trace] CommandsConverter#CREATE git.commit git.commit /292593
+2024-10-10 23:00:38.913 [trace] CommandsConverter#CREATE git.commitAmend git.commitAmend /292594
+2024-10-10 23:00:38.913 [trace] CommandsConverter#CREATE git.commit git.commit /292595
+2024-10-10 23:00:38.913 [trace] CommandsConverter#CREATE git.commit git.commit /292596
+2024-10-10 23:00:38.913 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:38.913 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:38.942 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:38.942 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:38.944 [trace] ExtHostSCM#$onInputBoxValueChange 3
+2024-10-10 23:00:38.945 [trace] [DiagnosticCollection] change many (extension, owner, uris) vscode.git _generated_diagnostic_collection_name_#2 [[{"$mid":1,"fsPath":"git/scm3/input","external":"vscode-scm:git/scm3/input?rootUri%3Dfile%253A%252F%252F%252Fhome%252Fcoder","path":"git/scm3/input","scheme":"vscode-scm","query":"rootUri=file%3A%2F%2F%2Fhome%2Fcoder"},null]]
+2024-10-10 23:00:38.946 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:38.946 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:38.946 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:38.946 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:38.946 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:38.946 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:39.011 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:39.011 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:39.019 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:39.019 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:39.020 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:39.020 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:39.028 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:39.028 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:39.155 [trace] ExtHostSCM#$validateInput 3
+2024-10-10 23:00:39.202 [trace] [vscode.git] INVOKE provider 've=>ve.provideCodeActions(f.URI.revive(q),Y,_,fe)'
+2024-10-10 23:00:39.202 [trace] [GitHub.vscode-pull-request-github] INVOKE provider 've=>ve.provideCodeActions(f.URI.revive(q),Y,_,fe)'
+2024-10-10 23:00:39.202 [trace] [fnando.linter] INVOKE provider 've=>ve.provideCodeActions(f.URI.revive(q),Y,_,fe)'
+2024-10-10 23:00:39.202 [trace] [vscode.git] provider DONE after 0ms
+2024-10-10 23:00:39.202 [trace] [GitHub.vscode-pull-request-github] provider DONE after 0ms
+2024-10-10 23:00:39.202 [trace] [fnando.linter] provider DONE after 0ms
+2024-10-10 23:00:39.393 [trace] ExtHostSCM#$validateInput 3
+2024-10-10 23:00:39.711 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:39.711 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:39.711 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:39.711 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:39.711 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:39.711 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:39.711 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:39.711 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:39.711 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:39.711 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:39.711 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:39.711 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:39.711 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:39.711 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:39.711 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:39.711 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:39.711 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:39.711 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:39.711 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:39.711 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:39.711 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:39.711 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:39.711 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:39.711 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:39.711 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:39.711 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:39.711 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:39.711 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:39.711 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:39.711 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:39.712 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:39.712 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:39.712 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:39.712 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:39.712 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:39.712 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:39.712 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:39.712 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:39.712 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:39.712 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:39.712 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:39.712 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:39.941 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:39.941 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:39.954 [trace] [vscode.git] INVOKE provider '_=>_.provideLinks(f.URI.revive(q),Y)'
+2024-10-10 23:00:39.954 [trace] [vscode.git] provider DONE after 0ms
+2024-10-10 23:00:39.962 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:39.962 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:39.962 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:39.962 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:40.046 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:40.046 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:40.053 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:40.053 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:40.056 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:40.056 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:40.062 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:40.062 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:40.162 [trace] ExtHostSCM#$validateInput 3
+2024-10-10 23:00:40.329 [trace] ForwardedPorts: (ExtHostTunnelService) number of possible root ports 1
+2024-10-10 23:00:40.338 [trace] ForwardedPorts: (ExtHostTunnelService) heuristic ports 41355
+2024-10-10 23:00:40.338 [trace] ForwardedPorts: (ExtHostTunnelService) found candidate ports 45637, 8080
+2024-10-10 23:00:40.338 [trace] ForwardedPorts: (ExtHostTunnelService) candidate port scan took 39 ms.
+2024-10-10 23:00:40.338 [trace] ForwardedPorts: (ExtHostTunnelService) next candidate port scan in 2000 ms.
+2024-10-10 23:00:40.712 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:40.712 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:40.740 [debug] ProxyResolver#resolveProxy unconfigured https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream DIRECT 
+2024-10-10 23:00:40.740 [trace] ProxyResolver#tls.connect [{"session":"[object Object]","protocol":"https:","hostname":"mobile.events.d[32 chars]","port":443,"path":"null","method":"POST","headers":"[object Object]","agent":"[object Object]","_defaultAgent":"[object Object]","host":"mobile.events.d[32 chars]","lookupProxyAuthorization":"[Function: bound d]","noDelay":true,"servername":"mobile.events.d[32 chars]","secureEndpoint":true,"_vscodeAdditionalCaCerts":"[137 certs]","keepAlive":true,"scheduling":"lifo","timeout":5000,"rejectUnauthorized":false,"_agentKey":"mobile.events.d[62 chars]","encoding":"null","keepAliveInitialDelay":1000}]
+2024-10-10 23:00:42.375 [trace] ForwardedPorts: (ExtHostTunnelService) number of possible root ports 1
+2024-10-10 23:00:42.385 [trace] ForwardedPorts: (ExtHostTunnelService) heuristic ports 41355
+2024-10-10 23:00:42.385 [trace] ForwardedPorts: (ExtHostTunnelService) found candidate ports 45637, 8080
+2024-10-10 23:00:42.385 [trace] ForwardedPorts: (ExtHostTunnelService) candidate port scan took 47 ms.
+2024-10-10 23:00:42.385 [trace] ForwardedPorts: (ExtHostTunnelService) next candidate port scan in 2000 ms.
+2024-10-10 23:00:43.627 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:43.627 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:43.627 [trace] ExtHostSCM#$setSelectedSourceControl 3
+2024-10-10 23:00:43.628 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:43.628 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:43.628 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:43.628 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:43.648 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:43.648 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:44.415 [trace] ForwardedPorts: (ExtHostTunnelService) number of possible root ports 1
+2024-10-10 23:00:44.425 [trace] ForwardedPorts: (ExtHostTunnelService) heuristic ports 41355
+2024-10-10 23:00:44.425 [trace] ForwardedPorts: (ExtHostTunnelService) found candidate ports 45637, 8080
+2024-10-10 23:00:44.425 [trace] ForwardedPorts: (ExtHostTunnelService) candidate port scan took 40 ms.
+2024-10-10 23:00:44.425 [trace] ForwardedPorts: (ExtHostTunnelService) next candidate port scan in 2000 ms.
+2024-10-10 23:00:45.587 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:45.587 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:45.594 [trace] ExtHostSCM#$setSelectedSourceControl 3
+2024-10-10 23:00:45.600 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:45.600 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:46.453 [trace] ForwardedPorts: (ExtHostTunnelService) number of possible root ports 1
+2024-10-10 23:00:46.457 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:46.457 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:46.461 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:46.461 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:46.461 [trace] ForwardedPorts: (ExtHostTunnelService) heuristic ports 41355
+2024-10-10 23:00:46.461 [trace] ForwardedPorts: (ExtHostTunnelService) found candidate ports 45637, 8080
+2024-10-10 23:00:46.461 [trace] ForwardedPorts: (ExtHostTunnelService) candidate port scan took 37 ms.
+2024-10-10 23:00:46.461 [trace] ForwardedPorts: (ExtHostTunnelService) next candidate port scan in 2000 ms.
+2024-10-10 23:00:48.490 [trace] ForwardedPorts: (ExtHostTunnelService) number of possible root ports 1
+2024-10-10 23:00:48.498 [trace] ForwardedPorts: (ExtHostTunnelService) heuristic ports 41355
+2024-10-10 23:00:48.498 [trace] ForwardedPorts: (ExtHostTunnelService) found candidate ports 45637, 8080
+2024-10-10 23:00:48.498 [trace] ForwardedPorts: (ExtHostTunnelService) candidate port scan took 36 ms.
+2024-10-10 23:00:48.499 [trace] ForwardedPorts: (ExtHostTunnelService) next candidate port scan in 2000 ms.
+2024-10-10 23:00:48.860 [trace] ExtHostCommands#$executeContributedCommand git.viewCommit
+2024-10-10 23:00:48.869 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:48.869 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:48.874 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:48.874 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:48.874 [trace] ExtHostCommands#executeCommand _workbench.openMultiDiffEditor
+2024-10-10 23:00:48.895 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:48.895 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:48.904 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:48.904 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:48.908 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:48.908 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:48.912 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:48.912 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:48.916 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:48.916 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:48.919 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:48.919 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:48.922 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:48.922 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:48.926 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:48.926 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:48.929 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:48.929 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:48.932 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:48.932 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:48.936 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:48.936 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:48.940 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:48.940 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:48.945 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:48.945 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:48.945 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:48.945 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:48.946 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:48.946 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:48.946 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:48.946 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:48.946 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:48.946 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:48.946 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:48.946 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:48.946 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:48.946 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:48.946 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:48.946 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:48.946 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:48.946 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:48.947 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:48.947 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:48.951 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:48.951 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:48.953 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:48.953 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:48.961 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-10-10 23:00:48.961 [trace] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/extension-editing/dist/extensionEditingMain
+2024-10-10 23:00:48.961 [trace] ExtensionService#loadExtensionContext vscode.extension-editing
+2024-10-10 23:00:49.183 [trace] ExtensionService#_callActivateOptional vscode.extension-editing
+2024-10-10 23:00:49.276 [trace] [vscode.json-language-features] INVOKE provider '_=>_.provideDocumentSymbols(f.URI.revive(q),Y)'
+2024-10-10 23:00:49.298 [trace] [vscode.json-language-features] provider DONE after 23ms
+2024-10-10 23:00:49.327 [trace] [vscode.json-language-features] INVOKE provider '_=>_.provideColors(f.URI.revive(q),Y)'
+2024-10-10 23:00:49.327 [trace] [vscode.git] INVOKE provider '_=>_.provideLinks(f.URI.revive(q),Y)'
+2024-10-10 23:00:49.328 [trace] [vscode.git] provider DONE after 1ms
+2024-10-10 23:00:49.330 [trace] [vscode.json-language-features] provider DONE after 3ms
+2024-10-10 23:00:49.338 [trace] [vscode.git] INVOKE provider '_=>_.provideLinks(f.URI.revive(q),Y)'
+2024-10-10 23:00:49.338 [trace] [vscode.json-language-features] INVOKE provider '_=>_.provideLinks(f.URI.revive(q),Y)'
+2024-10-10 23:00:49.339 [trace] [vscode.git] INVOKE provider '_=>_.provideLinks(f.URI.revive(q),Y)'
+2024-10-10 23:00:49.339 [trace] [vscode.git] INVOKE provider '_=>_.provideLinks(f.URI.revive(q),Y)'
+2024-10-10 23:00:49.339 [trace] [vscode.git] INVOKE provider '_=>_.provideLinks(f.URI.revive(q),Y)'
+2024-10-10 23:00:49.347 [trace] [vscode.git] INVOKE provider '_=>_.provideLinks(f.URI.revive(q),Y)'
+2024-10-10 23:00:49.355 [trace] [vscode.git] provider DONE after 17ms
+2024-10-10 23:00:49.355 [trace] [vscode.git] provider DONE after 16ms
+2024-10-10 23:00:49.355 [trace] [vscode.git] provider DONE after 16ms
+2024-10-10 23:00:49.355 [trace] [vscode.git] provider DONE after 16ms
+2024-10-10 23:00:49.355 [trace] [vscode.git] provider DONE after 8ms
+2024-10-10 23:00:49.356 [trace] [vscode.json-language-features] provider DONE after 18ms
+2024-10-10 23:00:49.357 [trace] [vscode.git] INVOKE provider 've=>ve.provideCodeActions(f.URI.revive(q),Y,_,fe)'
+2024-10-10 23:00:49.357 [trace] [GitHub.vscode-pull-request-github] INVOKE provider 've=>ve.provideCodeActions(f.URI.revive(q),Y,_,fe)'
+2024-10-10 23:00:49.357 [trace] [fnando.linter] INVOKE provider 've=>ve.provideCodeActions(f.URI.revive(q),Y,_,fe)'
+2024-10-10 23:00:49.357 [trace] [vscode.git] provider DONE after 0ms
+2024-10-10 23:00:49.357 [trace] [GitHub.vscode-pull-request-github] provider DONE after 0ms
+2024-10-10 23:00:49.358 [trace] [fnando.linter] provider DONE after 1ms
+2024-10-10 23:00:49.449 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:49.449 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:49.457 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:49.457 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:49.501 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:49.501 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:49.501 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:49.501 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:50.663 [trace] ForwardedPorts: (ExtHostTunnelService) number of possible root ports 1
+2024-10-10 23:00:50.673 [trace] ForwardedPorts: (ExtHostTunnelService) heuristic ports 41355
+2024-10-10 23:00:50.673 [trace] ForwardedPorts: (ExtHostTunnelService) found candidate ports 45637, 8080
+2024-10-10 23:00:50.673 [trace] ForwardedPorts: (ExtHostTunnelService) candidate port scan took 41 ms.
+2024-10-10 23:00:50.673 [trace] ForwardedPorts: (ExtHostTunnelService) next candidate port scan in 2000 ms.
+2024-10-10 23:00:50.995 [debug] ProxyResolver#resolveProxy unconfigured https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream DIRECT 
+2024-10-10 23:00:50.996 [trace] ProxyResolver#tls.connect [{"session":"[object Object]","protocol":"https:","hostname":"mobile.events.d[32 chars]","port":443,"path":"null","method":"POST","headers":"[object Object]","agent":"[object Object]","_defaultAgent":"[object Object]","host":"mobile.events.d[32 chars]","lookupProxyAuthorization":"[Function: bound d]","noDelay":true,"servername":"mobile.events.d[32 chars]","secureEndpoint":true,"_vscodeAdditionalCaCerts":"[137 certs]","keepAlive":true,"scheduling":"lifo","timeout":5000,"rejectUnauthorized":false,"_agentKey":"mobile.events.d[62 chars]","encoding":"null","keepAliveInitialDelay":1000}]
+2024-10-10 23:00:52.707 [trace] ForwardedPorts: (ExtHostTunnelService) number of possible root ports 1
+2024-10-10 23:00:52.718 [trace] ForwardedPorts: (ExtHostTunnelService) heuristic ports 41355
+2024-10-10 23:00:52.718 [trace] ForwardedPorts: (ExtHostTunnelService) found candidate ports 45637, 8080
+2024-10-10 23:00:52.718 [trace] ForwardedPorts: (ExtHostTunnelService) candidate port scan took 44 ms.
+2024-10-10 23:00:52.718 [trace] ForwardedPorts: (ExtHostTunnelService) next candidate port scan in 2000 ms.
+2024-10-10 23:00:54.752 [trace] ForwardedPorts: (ExtHostTunnelService) number of possible root ports 1
+2024-10-10 23:00:54.767 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:54.767 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:54.767 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:54.767 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:54.767 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:54.767 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:54.767 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:54.767 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:54.767 [trace] [DiagnosticCollection] remove all (extension, owner) fnando.linter linter
+2024-10-10 23:00:54.768 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:54.768 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:54.768 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:54.768 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:54.906 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:54.906 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:54.906 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:54.906 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:54.907 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:54.907 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:54.938 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:54.938 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:54.939 [trace] ForwardedPorts: (ExtHostTunnelService) heuristic ports 41355
+2024-10-10 23:00:54.939 [trace] ForwardedPorts: (ExtHostTunnelService) found candidate ports 45637, 8080
+2024-10-10 23:00:54.939 [trace] ForwardedPorts: (ExtHostTunnelService) candidate port scan took 220 ms.
+2024-10-10 23:00:54.939 [trace] ForwardedPorts: (ExtHostTunnelService) next candidate port scan in 2000 ms.
+2024-10-10 23:00:54.939 [trace] CommandsConverter#CREATE _json.showAssociatedSchemaList _json.showAssociatedSchemaList /292597
+2024-10-10 23:00:54.941 [trace] [vscode.git] INVOKE provider '_=>_.provideLinks(f.URI.revive(q),Y)'
+2024-10-10 23:00:54.952 [trace] [vscode.git] provider DONE after 12ms
+2024-10-10 23:00:55.012 [trace] [eamodio.gitlens] INVOKE provider '_=>_.provideCodeLenses(f.URI.revive(q),Y)'
+2024-10-10 23:00:55.012 [trace] [hbenl.vscode-test-explorer] INVOKE provider '_=>_.provideCodeLenses(f.URI.revive(q),Y)'
+2024-10-10 23:00:55.012 [trace] [hbenl.vscode-test-explorer] provider DONE after 0ms
+2024-10-10 23:00:55.013 [trace] ExtHostCommands#executeCommand vscode.executeDocumentSymbolProvider
+2024-10-10 23:00:55.013 [trace] ExtHostCommands#executeCommand _executeDocumentSymbolProvider
+2024-10-10 23:00:55.035 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:55.035 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:55.042 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:55.042 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:55.056 [trace] [eamodio.gitlens] provider DONE after 44ms
+2024-10-10 23:00:55.441 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:55.441 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:55.448 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:00:55.448 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:00:55.618 [trace] [eamodio.gitlens] INVOKE provider '_=>_.resolveCodeLens(q,Y)'
+2024-10-10 23:00:55.621 [trace] [eamodio.gitlens] INVOKE provider '_=>_.resolveCodeLens(q,Y)'
+2024-10-10 23:00:55.622 [trace] CommandsConverter#CREATE gitlens.showQuickCommitFileDetails gitlens.showQuickCommitFileDetails /292598
+2024-10-10 23:00:55.622 [trace] CommandsConverter#CREATE gitlens.toggleFileBlame gitlens.toggleFileBlame /292599
+2024-10-10 23:00:55.622 [trace] [eamodio.gitlens] provider DONE after 4ms
+2024-10-10 23:00:55.622 [trace] [eamodio.gitlens] provider DONE after 1ms
+2024-10-10 23:00:56.971 [trace] ForwardedPorts: (ExtHostTunnelService) number of possible root ports 1
+2024-10-10 23:00:56.980 [trace] ForwardedPorts: (ExtHostTunnelService) heuristic ports 41355
+2024-10-10 23:00:56.980 [trace] ForwardedPorts: (ExtHostTunnelService) found candidate ports 45637, 8080
+2024-10-10 23:00:56.980 [trace] ForwardedPorts: (ExtHostTunnelService) candidate port scan took 42 ms.
+2024-10-10 23:00:56.980 [trace] ForwardedPorts: (ExtHostTunnelService) next candidate port scan in 2000 ms.
+2024-10-10 23:00:57.910 [trace] [eamodio.gitlens] INVOKE provider 've=>ve.provideHover(f.URI.revive(q),Y,_,fe)'
+2024-10-10 23:00:57.910 [trace] [eamodio.gitlens] INVOKE provider 've=>ve.provideHover(f.URI.revive(q),Y,_,fe)'
+2024-10-10 23:00:57.910 [trace] [hbenl.vscode-test-explorer] INVOKE provider 've=>ve.provideHover(f.URI.revive(q),Y,_,fe)'
+2024-10-10 23:00:57.910 [trace] [GitHub.vscode-pull-request-github] INVOKE provider 've=>ve.provideHover(f.URI.revive(q),Y,_,fe)'
+2024-10-10 23:00:57.911 [trace] [GitHub.vscode-pull-request-github] INVOKE provider 've=>ve.provideHover(f.URI.revive(q),Y,_,fe)'
+2024-10-10 23:00:57.911 [trace] [eamodio.gitlens] provider DONE after 1ms
+2024-10-10 23:00:57.911 [trace] [eamodio.gitlens] provider DONE after 1ms
+2024-10-10 23:00:57.911 [trace] [hbenl.vscode-test-explorer] provider DONE after 1ms
+2024-10-10 23:00:57.914 [trace] [GitHub.vscode-pull-request-github] provider DONE after 4ms
+2024-10-10 23:00:57.914 [trace] [GitHub.vscode-pull-request-github] provider DONE after 3ms
+2024-10-10 23:00:59.011 [trace] ForwardedPorts: (ExtHostTunnelService) number of possible root ports 1
+2024-10-10 23:00:59.020 [trace] ForwardedPorts: (ExtHostTunnelService) heuristic ports 41355
+2024-10-10 23:00:59.020 [trace] ForwardedPorts: (ExtHostTunnelService) found candidate ports 45637, 8080
+2024-10-10 23:00:59.020 [trace] ForwardedPorts: (ExtHostTunnelService) candidate port scan took 39 ms.
+2024-10-10 23:00:59.020 [trace] ForwardedPorts: (ExtHostTunnelService) next candidate port scan in 2000 ms.
+2024-10-10 23:01:01.050 [trace] ForwardedPorts: (ExtHostTunnelService) number of possible root ports 1
+2024-10-10 23:01:01.059 [trace] ForwardedPorts: (ExtHostTunnelService) heuristic ports 41355
+2024-10-10 23:01:01.059 [trace] ForwardedPorts: (ExtHostTunnelService) found candidate ports 45637, 8080
+2024-10-10 23:01:01.059 [trace] ForwardedPorts: (ExtHostTunnelService) candidate port scan took 39 ms.
+2024-10-10 23:01:01.059 [trace] ForwardedPorts: (ExtHostTunnelService) next candidate port scan in 2000 ms.
+2024-10-10 23:01:02.631 [trace] ExtHostCommands#$executeContributedCommand gitlens.diffWithPrevious
+2024-10-10 23:01:02.641 [trace] ExtHostCommands#executeCommand gitlens.diffWith
+2024-10-10 23:01:02.670 [trace] ExtHostCommands#executeCommand vscode.diff
+2024-10-10 23:01:02.670 [trace] ExtHostCommands#executeCommand _workbench.diff
+2024-10-10 23:01:02.702 [trace] [DiagnosticCollection] remove all (extension, owner) fnando.linter linter
+2024-10-10 23:01:02.702 [trace] [hbenl.vscode-test-explorer] INVOKE provider 'Y=>Promise.resolve(Y.releaseCodeLenses(q))'
+2024-10-10 23:01:02.702 [trace] [eamodio.gitlens] INVOKE provider 'Y=>Promise.resolve(Y.releaseCodeLenses(q))'
+2024-10-10 23:01:02.702 [trace] CommandsConverter#DISPOSE gitlens.showQuickCommitFileDetails /292598
+2024-10-10 23:01:02.702 [trace] CommandsConverter#DISPOSE gitlens.toggleFileBlame /292599
+2024-10-10 23:01:02.714 [trace] [hbenl.vscode-test-explorer] provider DONE after 12ms
+2024-10-10 23:01:02.714 [trace] [eamodio.gitlens] provider DONE after 12ms
+2024-10-10 23:01:02.734 [warning] TextEditor is closed/disposed
+2024-10-10 23:01:02.734 [trace] CommandsConverter#DISPOSE _json.showAssociatedSchemaList /292597
+2024-10-10 23:01:02.992 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:02.992 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:02.992 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:02.992 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:02.992 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:02.992 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:02.992 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:02.992 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:02.992 [trace] [DiagnosticCollection] remove all (extension, owner) fnando.linter linter
+2024-10-10 23:01:02.993 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:02.993 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:02.993 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:02.993 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:03.144 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:03.144 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:03.145 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:03.145 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:03.146 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:03.146 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:03.146 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:03.146 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:03.146 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:03.147 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:03.193 [trace] CommandsConverter#CREATE _json.showAssociatedSchemaList _json.showAssociatedSchemaList /292600
+2024-10-10 23:01:03.194 [trace] [vscode.git] INVOKE provider '_=>_.provideLinks(f.URI.revive(q),Y)'
+2024-10-10 23:01:03.203 [trace] [vscode.git] INVOKE provider '_=>_.provideLinks(f.URI.revive(q),Y)'
+2024-10-10 23:01:03.211 [trace] [vscode.git] provider DONE after 17ms
+2024-10-10 23:01:03.212 [trace] [vscode.git] provider DONE after 8ms
+2024-10-10 23:01:03.242 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:03.242 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:03.251 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:03.251 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:03.263 [trace] ForwardedPorts: (ExtHostTunnelService) number of possible root ports 1
+2024-10-10 23:01:03.273 [trace] ForwardedPorts: (ExtHostTunnelService) heuristic ports 41355
+2024-10-10 23:01:03.273 [trace] ForwardedPorts: (ExtHostTunnelService) found candidate ports 45637, 8080
+2024-10-10 23:01:03.273 [trace] ForwardedPorts: (ExtHostTunnelService) candidate port scan took 84 ms.
+2024-10-10 23:01:03.273 [trace] ForwardedPorts: (ExtHostTunnelService) next candidate port scan in 2000 ms.
+2024-10-10 23:01:03.350 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:03.350 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:03.350 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:03.350 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:04.744 [trace] [eamodio.gitlens] INVOKE provider 've=>ve.provideHover(f.URI.revive(q),Y,_,fe)'
+2024-10-10 23:01:04.744 [trace] [eamodio.gitlens] INVOKE provider 've=>ve.provideHover(f.URI.revive(q),Y,_,fe)'
+2024-10-10 23:01:04.744 [trace] [hbenl.vscode-test-explorer] INVOKE provider 've=>ve.provideHover(f.URI.revive(q),Y,_,fe)'
+2024-10-10 23:01:04.744 [trace] [GitHub.vscode-pull-request-github] INVOKE provider 've=>ve.provideHover(f.URI.revive(q),Y,_,fe)'
+2024-10-10 23:01:04.745 [trace] [GitHub.vscode-pull-request-github] INVOKE provider 've=>ve.provideHover(f.URI.revive(q),Y,_,fe)'
+2024-10-10 23:01:04.745 [trace] [eamodio.gitlens] provider DONE after 1ms
+2024-10-10 23:01:04.745 [trace] [eamodio.gitlens] provider DONE after 1ms
+2024-10-10 23:01:04.745 [trace] [hbenl.vscode-test-explorer] provider DONE after 1ms
+2024-10-10 23:01:04.748 [trace] [GitHub.vscode-pull-request-github] provider DONE after 4ms
+2024-10-10 23:01:04.748 [trace] [GitHub.vscode-pull-request-github] provider DONE after 3ms
+2024-10-10 23:01:05.305 [trace] ForwardedPorts: (ExtHostTunnelService) number of possible root ports 1
+2024-10-10 23:01:05.315 [trace] ForwardedPorts: (ExtHostTunnelService) heuristic ports 41355
+2024-10-10 23:01:05.315 [trace] ForwardedPorts: (ExtHostTunnelService) found candidate ports 45637, 8080
+2024-10-10 23:01:05.315 [trace] ForwardedPorts: (ExtHostTunnelService) candidate port scan took 42 ms.
+2024-10-10 23:01:05.315 [trace] ForwardedPorts: (ExtHostTunnelService) next candidate port scan in 2000 ms.
+2024-10-10 23:01:07.343 [trace] ForwardedPorts: (ExtHostTunnelService) number of possible root ports 1
+2024-10-10 23:01:07.351 [trace] ForwardedPorts: (ExtHostTunnelService) heuristic ports 41355
+2024-10-10 23:01:07.351 [trace] ForwardedPorts: (ExtHostTunnelService) found candidate ports 45637, 8080
+2024-10-10 23:01:07.351 [trace] ForwardedPorts: (ExtHostTunnelService) candidate port scan took 36 ms.
+2024-10-10 23:01:07.351 [trace] ForwardedPorts: (ExtHostTunnelService) next candidate port scan in 2000 ms.
+2024-10-10 23:01:07.633 [debug] ProxyResolver#resolveProxy unconfigured https://otel.gitkraken.com/v1/traces DIRECT 
+2024-10-10 23:01:07.633 [trace] ProxyResolver#tls.connect [{"session":"[object Object]","hostname":"otel.gitkraken.com","port":443,"path":"null","method":"POST","headers":"[object Object]","agent":"[object Object]","_defaultAgent":"[object Object]","host":"otel.gitkraken.com","lookupProxyAuthorization":"[Function: bound d]","noDelay":true,"servername":"otel.gitkraken.com","secureEndpoint":true,"_vscodeAdditionalCaCerts":"[137 certs]","keepAlive":true,"scheduling":"lifo","timeout":5000,"rejectUnauthorized":false,"_agentKey":"otel.gitkraken.[48 chars]","encoding":"null","keepAliveInitialDelay":1000}]
+2024-10-10 23:01:09.383 [trace] ForwardedPorts: (ExtHostTunnelService) number of possible root ports 1
+2024-10-10 23:01:09.393 [trace] ForwardedPorts: (ExtHostTunnelService) heuristic ports 41355
+2024-10-10 23:01:09.393 [trace] ForwardedPorts: (ExtHostTunnelService) found candidate ports 45637, 8080
+2024-10-10 23:01:09.393 [trace] ForwardedPorts: (ExtHostTunnelService) candidate port scan took 42 ms.
+2024-10-10 23:01:09.393 [trace] ForwardedPorts: (ExtHostTunnelService) next candidate port scan in 2000 ms.
+2024-10-10 23:01:11.422 [trace] ForwardedPorts: (ExtHostTunnelService) number of possible root ports 1
+2024-10-10 23:01:11.429 [trace] ForwardedPorts: (ExtHostTunnelService) heuristic ports 41355
+2024-10-10 23:01:11.429 [trace] ForwardedPorts: (ExtHostTunnelService) found candidate ports 45637, 8080
+2024-10-10 23:01:11.430 [trace] ForwardedPorts: (ExtHostTunnelService) candidate port scan took 37 ms.
+2024-10-10 23:01:11.430 [trace] ForwardedPorts: (ExtHostTunnelService) next candidate port scan in 2000 ms.
+2024-10-10 23:01:13.457 [trace] ForwardedPorts: (ExtHostTunnelService) number of possible root ports 1
+2024-10-10 23:01:13.464 [trace] ForwardedPorts: (ExtHostTunnelService) heuristic ports 41355
+2024-10-10 23:01:13.465 [trace] ForwardedPorts: (ExtHostTunnelService) found candidate ports 45637, 8080
+2024-10-10 23:01:13.465 [trace] ForwardedPorts: (ExtHostTunnelService) candidate port scan took 36 ms.
+2024-10-10 23:01:13.465 [trace] ForwardedPorts: (ExtHostTunnelService) next candidate port scan in 2000 ms.
+2024-10-10 23:01:15.493 [trace] ForwardedPorts: (ExtHostTunnelService) number of possible root ports 1
+2024-10-10 23:01:15.500 [trace] ForwardedPorts: (ExtHostTunnelService) heuristic ports 41355
+2024-10-10 23:01:15.500 [trace] ForwardedPorts: (ExtHostTunnelService) found candidate ports 45637, 8080
+2024-10-10 23:01:15.500 [trace] ForwardedPorts: (ExtHostTunnelService) candidate port scan took 36 ms.
+2024-10-10 23:01:15.500 [trace] ForwardedPorts: (ExtHostTunnelService) next candidate port scan in 2000 ms.
+2024-10-10 23:01:17.198 [trace] [eamodio.gitlens] INVOKE provider 've=>ve.provideHover(f.URI.revive(q),Y,_,fe)'
+2024-10-10 23:01:17.199 [trace] [eamodio.gitlens] INVOKE provider 've=>ve.provideHover(f.URI.revive(q),Y,_,fe)'
+2024-10-10 23:01:17.199 [trace] [hbenl.vscode-test-explorer] INVOKE provider 've=>ve.provideHover(f.URI.revive(q),Y,_,fe)'
+2024-10-10 23:01:17.199 [trace] [GitHub.vscode-pull-request-github] INVOKE provider 've=>ve.provideHover(f.URI.revive(q),Y,_,fe)'
+2024-10-10 23:01:17.199 [trace] [GitHub.vscode-pull-request-github] INVOKE provider 've=>ve.provideHover(f.URI.revive(q),Y,_,fe)'
+2024-10-10 23:01:17.199 [trace] [eamodio.gitlens] provider DONE after 1ms
+2024-10-10 23:01:17.199 [trace] [eamodio.gitlens] provider DONE after 0ms
+2024-10-10 23:01:17.199 [trace] [hbenl.vscode-test-explorer] provider DONE after 0ms
+2024-10-10 23:01:17.217 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:17.217 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:17.217 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:17.217 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:17.217 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:17.217 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:17.220 [trace] [GitHub.vscode-pull-request-github] provider DONE after 21ms
+2024-10-10 23:01:17.220 [trace] [GitHub.vscode-pull-request-github] provider DONE after 21ms
+2024-10-10 23:01:17.540 [trace] ForwardedPorts: (ExtHostTunnelService) number of possible root ports 1
+2024-10-10 23:01:17.550 [trace] ForwardedPorts: (ExtHostTunnelService) heuristic ports 41355
+2024-10-10 23:01:17.550 [trace] ForwardedPorts: (ExtHostTunnelService) found candidate ports 45637, 8080
+2024-10-10 23:01:17.550 [trace] ForwardedPorts: (ExtHostTunnelService) candidate port scan took 50 ms.
+2024-10-10 23:01:17.550 [trace] ForwardedPorts: (ExtHostTunnelService) next candidate port scan in 2000 ms.
+2024-10-10 23:01:19.528 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:19.528 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:19.528 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:19.528 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:19.528 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:19.528 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:19.528 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:19.528 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:19.529 [trace] [DiagnosticCollection] remove all (extension, owner) fnando.linter linter
+2024-10-10 23:01:19.529 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:19.529 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:19.530 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:19.530 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:19.530 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:19.530 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:19.530 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:19.530 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:19.532 [trace] CommandsConverter#DISPOSE _json.showAssociatedSchemaList /292600
+2024-10-10 23:01:19.532 [trace] CommandsConverter#CREATE _json.showAssociatedSchemaList _json.showAssociatedSchemaList /292601
+2024-10-10 23:01:19.582 [trace] ForwardedPorts: (ExtHostTunnelService) number of possible root ports 1
+2024-10-10 23:01:19.591 [trace] ForwardedPorts: (ExtHostTunnelService) heuristic ports 41355
+2024-10-10 23:01:19.591 [trace] ForwardedPorts: (ExtHostTunnelService) found candidate ports 45637, 8080
+2024-10-10 23:01:19.591 [trace] ForwardedPorts: (ExtHostTunnelService) candidate port scan took 41 ms.
+2024-10-10 23:01:19.591 [trace] ForwardedPorts: (ExtHostTunnelService) next candidate port scan in 2000 ms.
+2024-10-10 23:01:19.773 [trace] [hbenl.vscode-test-explorer] INVOKE provider '_=>_.provideCodeLenses(f.URI.revive(q),Y)'
+2024-10-10 23:01:19.773 [trace] [hbenl.vscode-test-explorer] provider DONE after 0ms
+2024-10-10 23:01:20.840 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:20.840 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:20.840 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:20.840 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:20.840 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:20.840 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:20.840 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:20.840 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:20.841 [trace] [DiagnosticCollection] remove all (extension, owner) fnando.linter linter
+2024-10-10 23:01:20.842 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:20.842 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:20.842 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:20.842 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:20.842 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:20.842 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:20.842 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:20.842 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:20.842 [trace] [hbenl.vscode-test-explorer] INVOKE provider 'Y=>Promise.resolve(Y.releaseCodeLenses(q))'
+2024-10-10 23:01:20.842 [trace] [hbenl.vscode-test-explorer] INVOKE provider 'Y=>Promise.resolve(Y.releaseCodeLenses(q))'
+2024-10-10 23:01:20.843 [trace] [DiagnosticCollection] change many (extension, owner, uris) vscode.extension-editing extension-editing [[{"$mid":1,"fsPath":"vscode.git.Git","external":"output:vscode.git.Git","path":"vscode.git.Git","scheme":"output"},null]]
+2024-10-10 23:01:20.859 [trace] [hbenl.vscode-test-explorer] provider DONE after 17ms
+2024-10-10 23:01:20.859 [trace] [hbenl.vscode-test-explorer] provider DONE after 17ms
+2024-10-10 23:01:20.860 [trace] CommandsConverter#DISPOSE _json.showAssociatedSchemaList /292601
+2024-10-10 23:01:20.861 [trace] CommandsConverter#CREATE _json.showAssociatedSchemaList _json.showAssociatedSchemaList /292602
+2024-10-10 23:01:21.735 [trace] ForwardedPorts: (ExtHostTunnelService) number of possible root ports 1
+2024-10-10 23:01:21.744 [trace] ForwardedPorts: (ExtHostTunnelService) heuristic ports 41355
+2024-10-10 23:01:21.744 [trace] ForwardedPorts: (ExtHostTunnelService) found candidate ports 45637, 8080
+2024-10-10 23:01:21.744 [trace] ForwardedPorts: (ExtHostTunnelService) candidate port scan took 40 ms.
+2024-10-10 23:01:21.744 [trace] ForwardedPorts: (ExtHostTunnelService) next candidate port scan in 2000 ms.
+2024-10-10 23:01:23.776 [trace] ForwardedPorts: (ExtHostTunnelService) number of possible root ports 1
+2024-10-10 23:01:23.787 [trace] ForwardedPorts: (ExtHostTunnelService) heuristic ports 41355
+2024-10-10 23:01:23.787 [trace] ForwardedPorts: (ExtHostTunnelService) found candidate ports 45637, 8080
+2024-10-10 23:01:23.787 [trace] ForwardedPorts: (ExtHostTunnelService) candidate port scan took 42 ms.
+2024-10-10 23:01:23.787 [trace] ForwardedPorts: (ExtHostTunnelService) next candidate port scan in 2000 ms.
+2024-10-10 23:01:25.818 [trace] ForwardedPorts: (ExtHostTunnelService) number of possible root ports 1
+2024-10-10 23:01:25.826 [trace] ForwardedPorts: (ExtHostTunnelService) heuristic ports 41355
+2024-10-10 23:01:25.826 [trace] ForwardedPorts: (ExtHostTunnelService) found candidate ports 45637, 8080
+2024-10-10 23:01:25.826 [trace] ForwardedPorts: (ExtHostTunnelService) candidate port scan took 39 ms.
+2024-10-10 23:01:25.826 [trace] ForwardedPorts: (ExtHostTunnelService) next candidate port scan in 2000 ms.
+2024-10-10 23:01:27.073 [trace] [DiagnosticCollection] change many (extension, owner, uris) vscode.extension-editing extension-editing [[{"$mid":1,"fsPath":"/home/coder/.git/COMMIT_EDITMSG","external":"file:///home/coder/.git/COMMIT_EDITMSG","path":"/home/coder/.git/COMMIT_EDITMSG","scheme":"file"},null]]
+2024-10-10 23:01:27.366 [trace] [DiagnosticCollection] change many (extension, owner, uris) vscode.extension-editing extension-editing [[{"$mid":1,"fsPath":"/home/coder/.git/COMMIT_EDITMSG.git","external":"git:/home/coder/.git/COMMIT_EDITMSG.git?%7B%22path%22%3A%22%2Fhome%2Fcoder%2F.git%2FCOMMIT_EDITMSG%22%2C%22ref%22%3A%22%22%7D","path":"/home/coder/.git/COMMIT_EDITMSG.git","scheme":"git","query":"{\"path\":\"/home/coder/.git/COMMIT_EDITMSG\",\"ref\":\"\"}"},null]]
+2024-10-10 23:01:27.703 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:27.703 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:27.722 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:27.722 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:27.722 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:27.722 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:27.808 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:27.808 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:27.815 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:27.815 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:27.819 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:27.819 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:27.823 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:27.823 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:27.827 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:27.827 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:27.831 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:27.831 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:27.839 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:27.839 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:27.839 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:27.839 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:27.839 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:27.839 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:27.840 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:27.840 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:27.840 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:27.840 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:27.840 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:27.840 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:27.873 [trace] ForwardedPorts: (ExtHostTunnelService) number of possible root ports 1
+2024-10-10 23:01:27.882 [trace] ForwardedPorts: (ExtHostTunnelService) heuristic ports 41355
+2024-10-10 23:01:27.882 [trace] ForwardedPorts: (ExtHostTunnelService) found candidate ports 45637, 8080
+2024-10-10 23:01:27.882 [trace] ForwardedPorts: (ExtHostTunnelService) candidate port scan took 44 ms.
+2024-10-10 23:01:27.882 [trace] ForwardedPorts: (ExtHostTunnelService) next candidate port scan in 2000 ms.
+2024-10-10 23:01:27.884 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:27.884 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:27.889 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:27.889 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:27.892 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:27.892 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:27.896 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:27.896 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:27.900 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:27.900 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:27.903 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:27.903 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:27.908 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:27.908 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:27.908 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:27.908 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:27.908 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:27.908 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:27.909 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:27.909 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:27.912 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:27.912 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:27.914 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:27.914 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:27.925 [trace] ExtHostSCM#$validateInput 3
+2024-10-10 23:01:29.915 [trace] ForwardedPorts: (ExtHostTunnelService) number of possible root ports 1
+2024-10-10 23:01:29.925 [trace] ForwardedPorts: (ExtHostTunnelService) heuristic ports 41355
+2024-10-10 23:01:29.925 [trace] ForwardedPorts: (ExtHostTunnelService) found candidate ports 45637, 8080
+2024-10-10 23:01:29.925 [trace] ForwardedPorts: (ExtHostTunnelService) candidate port scan took 42 ms.
+2024-10-10 23:01:29.925 [trace] ForwardedPorts: (ExtHostTunnelService) next candidate port scan in 2000 ms.
+2024-10-10 23:01:31.118 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:31.118 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:31.125 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:31.125 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:31.129 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:31.129 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:31.133 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:31.133 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:31.136 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:31.136 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:31.140 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:31.140 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:31.144 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:31.144 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:31.145 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:31.145 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:31.145 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:31.145 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:31.145 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:31.145 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:31.145 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:31.145 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:31.145 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:31.145 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:31.204 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:31.204 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:31.211 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:31.211 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:31.215 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:31.215 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:31.219 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:31.219 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:31.223 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:31.223 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:31.226 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:31.226 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:31.231 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:31.231 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:31.231 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:31.231 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:31.231 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:31.231 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:31.232 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:31.232 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:31.235 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:31.235 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:31.239 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:31.239 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:31.956 [trace] ForwardedPorts: (ExtHostTunnelService) number of possible root ports 1
+2024-10-10 23:01:31.965 [trace] ForwardedPorts: (ExtHostTunnelService) heuristic ports 41355
+2024-10-10 23:01:31.965 [trace] ForwardedPorts: (ExtHostTunnelService) found candidate ports 45637, 8080
+2024-10-10 23:01:31.965 [trace] ForwardedPorts: (ExtHostTunnelService) candidate port scan took 39 ms.
+2024-10-10 23:01:31.965 [trace] ForwardedPorts: (ExtHostTunnelService) next candidate port scan in 2000 ms.
+2024-10-10 23:01:32.722 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:32.722 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:32.743 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:32.743 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:32.744 [trace] ExtHostCommands#executeCommand setContext
+2024-10-10 23:01:32.744 [trace] ExtHostCommands#executeCommand _setContext
+2024-10-10 23:01:32.946 [trace] ExtHostSCM#$validateInput 3
+2024-10-10 23:01:33.994 [trace] ForwardedPorts: (ExtHostTunnelService) number of possible root ports 1
+2024-10-10 23:01:34.002 [trace] ForwardedPorts: (ExtHostTunnelService) heuristic ports 41355
+2024-10-10 23:01:34.002 [trace] ForwardedPorts: (ExtHostTunnelService) found candidate ports 45637, 8080
+2024-10-10 23:01:34.002 [trace] ForwardedPorts: (ExtHostTunnelService) candidate port scan took 37 ms.
+2024-10-10 23:01:34.002 [trace] ForwardedPorts: (ExtHostTunnelService) next candidate port scan in 2000 ms.
